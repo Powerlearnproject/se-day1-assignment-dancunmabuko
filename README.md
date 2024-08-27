@@ -9,7 +9,7 @@ Software engineering refers to the systematic approach of application of softwar
 Identify and describe at least three key milestones in the evolution of software engineering.
 i. Structured programming. This marked the transition to a more organized approach to coding.
 ii. Object oriented programming. This was the introduction of concepts like classes and objects in programming
-iii. Agile methodologies. This focused on fexibiliity and collaborative working.
+iii. Agile methodologies. This focused on fexibiliity and collaborative working. 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 i. Planning - This is the stage where the project is defined and its scope is discussed.
